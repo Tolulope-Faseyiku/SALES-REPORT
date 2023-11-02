@@ -24,3 +24,5 @@ This is a training exercise with the following tasks:
 - Data analysis using DAX queries
 - Visualisation in Power BI with page navigation
 - Drawing insights from visualisations
+
+### ETL Process
