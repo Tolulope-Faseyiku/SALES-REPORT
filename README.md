@@ -6,4 +6,13 @@
 
 # Introduction
 This is a training exercise with the following tasks:
-(i) Import Database Adveturework2014 into SSMS from https://1drv.ms/u/s!AiZu-urEabOdgYIlFcCGIxckz7l6Mg?e=uwNFy0
+
+- Import Database Adveturework2014 into SSMS from the web URL (https://1drv.ms/u/s!AiZu-urEabOdgYIlFcCGIxckz7l6Mg?e=uwNFy0)
+- Connect Power BI to SQL Database and import Table Product TransactionHistory, Sales CurrencyRate, Sales SalesOrderDetail from Database Adveturework2014.
+
+- Using Table Product TransactionHistory create:
+  1. A visual showing Actual Cost for each Transaction Type on a month-to-month.
+  2. A table showing Category of Average Quantity into 3 groups namely High Quantity, Mid Quantity, and Low Quantity.
+  3. A visual showing Total Actual Cost for each Transaction Type.
+  4. Create a dashboard for tasks 1, 2, and 3.
+
