@@ -16,3 +16,6 @@ This is a training exercise with the following tasks:
   3. A visual showing Total Actual Cost for each Transaction Type.
   4. Create a dashboard for tasks 1, 2, and 3.
 
+- Give an insight into the trend of data in Table Sales CurrencyRate, back up insights with visuals
+- Design three visuals and an interactive dashboard from Table Sales SalesOrderDetail 
+
