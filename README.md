@@ -1,7 +1,7 @@
 # SALES-REPORT (Tasks and Instructions)
 
 ![](sales_picture.png)
-## Sales report showcasing the ETL process with SQL, analysis and reporting with Power BI dashboarding techniques and documentation
+## This sales report is created as part of my training exercise, it showcases the ETL process using SQL, analysis and reporting with Power BI dashboarding techniques and documentation using the markdown langauge.
 
 
 # Introduction
