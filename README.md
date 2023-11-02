@@ -19,3 +19,8 @@ This is a training exercise with the following tasks:
 - Give an insight into the trend of data in Table Sales CurrencyRate, back up insights with visuals
 - Design three visuals and an interactive dashboard from Table Sales SalesOrderDetail 
 
+# Skills Demonstrated
+- ETL process
+- Data analysis using DAX queries
+- Visualisation in Power BI with page navigation
+- Drawing insights from visualisations
