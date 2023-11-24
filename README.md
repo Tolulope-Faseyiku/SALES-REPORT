@@ -27,7 +27,7 @@ This is a training exercise with the following tasks:
 
 ### ETL Process
 I was able to perform the ETL process by extracting and transforming data with SQL to generate the following tables Product transaction history, Sales currency rate and Sales order details, I also imported the tables into Power BI to complete the the ETL process before analysing the data.
-![](data_groups)
+![](data_groups.png)
 
 ### Data analysis using DAX queries
 In analysing the data, I used some simple DAX queries to generate average quantities which helped me group the data and aided my analysis.
