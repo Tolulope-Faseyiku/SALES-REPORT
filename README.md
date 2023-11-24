@@ -26,12 +26,11 @@ This is a training exercise with the following tasks:
 - Drawing insights from visualisations
 
 ### ETL Process
-I was able to perform the ETL process by extracting and transforming data with SQL to generate the following tables Product transaction history, Sales currency rate and Sales order details, I also imported the tables into Power BI to complete the the ETL process before analysing the data.
-
-![](data_groups.png)
+I was able to perform the ETL process by extracting and transforming data with SQL to generate the following tables Product transaction history, Sales currency rate and Sales order details, I also imported the tables into Power BI and used Power Query for transformation and loaded into the Power Bi window to complete the ETL process.
 
 ### Data analysis using DAX queries
 In analysing the data, I used some simple DAX queries to generate average quantities which helped me group the data and aided my analysis.
+![](data_groups.png)
 
 ### Visualisation in Power BI with page navigation
 I was able to employ some of the skills I learned from Bas, How to Power BI (https://www.youtube.com/@HowtoPowerBI) and ExcelFort (https://www.youtube.com/@ExcelFort) on YouTube which assisted me in formatting my dashboard and visuals in Power BI and also created page navigation to go through the pages of my Power BI report.
