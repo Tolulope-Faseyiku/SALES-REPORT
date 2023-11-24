@@ -34,6 +34,7 @@ In analysing the data, I used some simple DAX queries to generate average quanti
 
 ### Visualisation in Power BI with page navigation
 I was able to employ some of the skills I learned from Bas, How to Power BI (https://www.youtube.com/@HowtoPowerBI) and ExcelFort (https://www.youtube.com/@ExcelFort) on YouTube which assisted me in formatting my dashboard and visuals in Power BI to get proper white spaces, colour selections and also created page navigation to go through the pages of my Power BI report.
+
 ![](page_navigation.png)
 
 ### Drawing insights from visualisations
