@@ -52,8 +52,8 @@ The report was prepared on Microsoft Power BI and it covered three workbooks as 
 ![](Product_transaction_history.png)
 
 
-![](Sales_currency_rate.png)
+![](sales_currency_rate.png)
 
 
-![](Sales_order_details.png)
+![](sales_order_details.png)
 
