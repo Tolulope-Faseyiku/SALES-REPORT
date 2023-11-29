@@ -45,5 +45,5 @@ I was able to draw the following insights from the dashboards created from the a
 -  MXN is the third largest rate and the yearly exchange rate has significantly reduced compared to the starting year of 2011 which was at £2.0k to £1.5k.
 -  The current year has experienced a large reduction of the yearly average rate except for VEB, hence these currencies need to drive the rate downwards continually.
 
-### Drawing insights from visualisations
+### Visual Description
 The report was prepared on Microsoft Power BI and it covered three workbooks as instructed. They were named Product Transaction History, Sales Currency Rate and Sales Order Details, they can be viewed in the pbix file SALES REPORT.
