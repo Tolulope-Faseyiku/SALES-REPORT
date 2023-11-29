@@ -46,7 +46,7 @@ I was able to draw the following insights from the dashboards created from the a
 -  The current year has experienced a large reduction of the yearly average rate except for VEB, hence these currencies need to drive the rate downwards continually.
 
 ### Visual Description
-The report was prepared on Microsoft Power BI and it covered three workbooks as instructed. They were named Product Transaction History, Sales Currency Rate and Sales Order Details, they can be viewed in the pbix file SALES REPORT.
+The report was prepared on Microsoft Power BI and it covered three workbooks as instructed. They were named Product Transaction History, Sales Currency Rate and Sales Order Details, they can be viewed in the pbix file SALES REPORT.pbix.
 
 
 ![](Product_transaction_history.png)
