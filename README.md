@@ -39,5 +39,10 @@ I was able to employ some of the skills I learned from Bas, How to Power BI (htt
 
 ### Drawing insights from visualisations
 I was able to draw the following insights from the dashboards created from the analysed data:
+-  As a result of the incline in the exchange rate in 2011-2013, they need to work towards a reduction in the rate even further than the 2014 rate.
+-  VEB the largest of the rate, needs to work towards the exchange rate they had in 2011 of £0.14m
+-  JPY is the second largest rate, there was progress in the yearly average rate reduction from 2011 to the current yearly average rate of 2014 of £18k.
+-  MXN is the third largest rate and the yearly exchange rate has significantly reduced compared to the starting year of 2011 which was at £2.0k to £1.5k.
+-  The current year has experienced a large amount of reduction of the yearly average rate except for VEB, hence these currencies need to continually drive the rate downwards.
 
 
