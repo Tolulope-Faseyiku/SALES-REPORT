@@ -47,3 +47,9 @@ I was able to draw the following insights from the dashboards created from the a
 
 ### Visual Description
 The report was prepared on Microsoft Power BI and it covered three workbooks as instructed. They were named Product Transaction History, Sales Currency Rate and Sales Order Details, they can be viewed in the pbix file SALES REPORT.
+
+
+![](Product_transaction_history.png)
+![](.png)
+![](sales_picture.png)
+
